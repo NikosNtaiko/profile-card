@@ -20,7 +20,7 @@ To complete the challenge i used:
 HTML and CSS
 
 
-## Deploying your project
+## Deploying my project
 
 To upload the website i used netlify.
 
